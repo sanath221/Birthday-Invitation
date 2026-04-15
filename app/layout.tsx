@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Mishika Kadari's 3rd Birthday Celebration",
     description:
-      "Join us in celebrating our love and togetherness on April 15, 2026.",
+      "Join us in celebrating Mishu's 3rd Birthday Celebration on April 15, 2026.",
     images: ["./Mishu.jpeg"],
   },
   twitter: {
